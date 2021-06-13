@@ -1,0 +1,11 @@
+[ {
+  "uid" : "562c166fe0aff190",
+  "name" : "wait for elements to sync",
+  "time" : {
+    "start" : 1623573297936,
+    "stop" : 1623573312288,
+    "duration" : 14352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Home Page Element",
+    "children" : [ {
+      "name" : "wait for elements to sync",
+      "uid" : "562c166fe0aff190",
+      "parentUid" : "83fa699a50a168f2bb9286b01f75b0f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623573297936,
+        "stop" : 1623573312288,
+        "duration" : 14352
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.77" ]
+    } ],
+    "uid" : "83fa699a50a168f2bb9286b01f75b0f8"
+  } ]
+}
